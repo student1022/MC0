@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MC0</string>
+    <string name="pprompt">Amount</string>
+    <string name="iprompt">Interest Rate (annual percent)</string>
+    <string name="aprompt">Amortization (years)</string>
+    <string name="paybutton">Compute Monthly Payment</string>
+</resources>
